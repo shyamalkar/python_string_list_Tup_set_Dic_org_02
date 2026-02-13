@@ -1,11 +1,11 @@
-"Hello my name is Shyamal kar "
+"Hello my name is Shyamal kar " ✍️
 
-Ïn this repository i cover python list, string, Tuples, set & Dictionaries & one of the most popular if, elif, else i mean control statement "
+Ïn this repository i cover python list, string, Tuples, set & Dictionaries & one of the most popular if, elif, else i mean control statement " 🧑‍🏫
 
-What topics are cover in this repository ? 
+What topics are cover in this repository ? 📖
 
-Topic's like:-
-1. String in Python:-
+📒 Topic's like:-
+1. String in Python:- 
     slicing in strings,
     fstring in python,
     escape sequences, 
